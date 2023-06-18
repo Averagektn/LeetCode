@@ -11,7 +11,7 @@
         }
     }
 
-    public class Solution
+    public class Add
     {
         public ListNode? AddTwoNumbers(ListNode? l1, ListNode? l2)
         {
